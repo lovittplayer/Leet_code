@@ -25,8 +25,7 @@ public:
             }
             
         }
-        if(count == q.size()) return q.size();
-        else return 0;
+        return q.size();
     }
 
 };
