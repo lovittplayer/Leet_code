@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/lovittplayer/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
