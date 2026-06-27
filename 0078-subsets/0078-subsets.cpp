@@ -1,10 +1,9 @@
 class Solution {
-void sub(vector<int>nums,int idx ,vector<int>arr,vector<vector<int>>&ans) {
+void sub(vector<int>&nums,int idx ,vector<int>arr,vector<vector<int>>&ans) {
     if(idx==nums.size()) {
-             ans.push_back(arr);
+        ans.push_back(arr);
         return;
     }
-
     sub(nums,idx+1,arr,ans);
     arr.push_back(nums[idx]);
      sub(nums,idx+1,arr,ans);
