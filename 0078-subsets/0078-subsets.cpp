@@ -10,9 +10,10 @@ void sub(vector<int>&nums,int idx ,vector<int>arr,vector<vector<int>>&ans) {
 }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size() ;
+ 
         vector<int> arr ;
         vector<vector<int>>ans;
+        
         sub(nums,0,arr,ans);
 
         return ans;
