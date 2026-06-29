@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/lovittplayer/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lovittplayer/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
