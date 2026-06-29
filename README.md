@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lovittplayer/Leet_code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
