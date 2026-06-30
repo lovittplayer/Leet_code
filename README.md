@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0867-transpose-matrix) |
+| [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lovittplayer/Leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
+| [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+| [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
+| [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
 | ------- |
