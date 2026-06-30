@@ -3,6 +3,7 @@ class Solution
 public:
     int maxSatisfaction(vector<int> &satisfaction)
     {
+        // in this solution suffix sum nikal ke hum dekh rhe h kha se suffix sum >0 wha tk time se multiply krke we are getinng the ans 
         int n = satisfaction.size();
         sort(satisfaction.begin(), satisfaction.end());
         vector<int> suff(satisfaction.size());
