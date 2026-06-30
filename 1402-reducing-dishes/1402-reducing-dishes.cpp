@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxSatisfaction(vector<int>& satisfaction) {
+        // this is my solution jisme maine coeff ka array bna lia uske baad usme se jo maximum element h use return krdia agr <0 hai toh 0 return kia 
          int n = satisfaction.size();
         sort(satisfaction.begin(),satisfaction.end());
          vector <int>like_time_coff(satisfaction.size());
