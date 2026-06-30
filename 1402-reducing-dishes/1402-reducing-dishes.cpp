@@ -1,27 +1,37 @@
-class Solution {
+class Solution
+{
 public:
-    int maxSatisfaction(vector<int>& satisfaction) {
-        // this is my solution jisme maine coeff ka array bna lia uske baad usme se jo maximum element h use return krdia agr <0 hai toh 0 return kia 
-         int n = satisfaction.size();
-        sort(satisfaction.begin(),satisfaction.end());
-         vector <int>like_time_coff(satisfaction.size());
-         for (int i = n-1;i>=0;i--) {
-            int multi = 1;
-            for (int j = i ;j<=n-1;j++)  {
-                like_time_coff[i] += satisfaction[j]*multi;
-                multi++;
-            }
-         }
+    int maxSatisfaction(vector<int> &satisfaction)
+    {
+        int n = satisfaction.size();
+        sort(satisfaction.begin(), satisfaction.end());
+        vector<int> suff(satisfaction.size());
+        suff[n - 1] = satisfaction[n - 1];
+        for (int i = n - 2; i >= 0; i--)
+        {
+            suff[i] = suff[i + 1] + satisfaction[i];
+        }
 
-         int max = INT_MIN;
-         for (int i = 0 ; i<n;i++) {
-            if(like_time_coff[i]>max) max = like_time_coff[i];
-         }
+        int idx = -1;
+        for (int i = 0; i < n; i++)
+        {
+            if (suff[i] >= 0)
+              {
+                idx = i;
+                break;
 
+              }  
+        }
 
-        if(max<0) return 0;
-         return max;
-         
-        
+        if (idx == -1)return 0;
+            
+        int x = 1;
+        int ans = 0;
+        for (int i = idx; i <= n - 1; i++)
+        {
+            ans += (satisfaction[i] * x);
+            x++;
+        }
+        return ans;
     }
 };
