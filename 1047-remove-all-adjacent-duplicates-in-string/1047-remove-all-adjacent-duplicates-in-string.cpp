@@ -5,8 +5,7 @@ public:
         stack <char> st;
 
      
-        st.push(s[0]);
-        for(int i = 1 ; i<s.size();i++) {
+        for(int i = 0 ; i<s.size();i++) {
             if(st.size()==0) {
                 st.push(s[i]);
                 continue;
