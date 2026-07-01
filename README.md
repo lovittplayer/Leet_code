@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0867-transpose-matrix) |
+| [1052-grumpy-bookstore-owner](https://github.com/lovittplayer/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lovittplayer/Leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/lovittplayer/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
