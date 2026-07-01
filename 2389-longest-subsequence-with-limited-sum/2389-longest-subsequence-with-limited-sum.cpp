@@ -13,7 +13,6 @@ public:
         for (int i = 0 ;i<queries.size();i++) {
           int hi = nums.size()-1;
           int lo = 0;
-          int maxlen = 0;
           while (hi>=lo) {
             int mid = lo + (hi-lo)/2;
             if(nums[mid]<=queries[i]) {
