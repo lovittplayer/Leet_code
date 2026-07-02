@@ -1,5 +1,5 @@
 class Solution {
-   void  combination2( vector<vector<int>>&ans,vector<int>v,vector<int>& candidates,int target,int idx) {
+   void  combination2( vector<vector<int>>&ans,vector<int>&v,vector<int>& candidates,int target,int idx) {
      
       if(target==0) {
         ans.push_back(v);
