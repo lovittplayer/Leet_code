@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lovittplayer/Leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3637-trionic-array-i](https://github.com/lovittplayer/Leet_code/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
