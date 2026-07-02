@@ -6,6 +6,7 @@ class Solution {
       }
        if(target<0) return;
       for(int i = idx;i<candidates.size();i++) {
+         if(candidates[i] > target) break;
         if(i > idx && candidates[i] == candidates[i-1])  continue;
         v.push_back(candidates[i]);
         combination2(ans,v,candidates,target-candidates[i],i+1);
