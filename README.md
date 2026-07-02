@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0031-next-permutation](https://github.com/lovittplayer/Leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lovittplayer/Leet_code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lovittplayer/Leet_code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
 ## String
