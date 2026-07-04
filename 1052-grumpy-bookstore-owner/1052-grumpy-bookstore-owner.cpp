@@ -1,54 +1,51 @@
 class Solution {
 public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
-
-        int prev_sum = 0;
-        int curr_sum = 0;
-        int window_idx = 0;
-
-        // First window: count only grumpy customers
-        for (int i = 0; i < minutes; i++) {
-            if (grumpy[i] == 1)
+         
+         int n = customers.size();
+         int k = minutes; // window size
+         int prev_sum = 0;
+         int curr_sum = 0;
+         // calcultation of first window sum where the owner is grumpy
+         for(int i = 0 ; i<k;i++) {
+            if(grumpy[i]==1) {
                 prev_sum += customers[i];
-        }
-
-        int max_sum = prev_sum;
-
+            }
+         }
+        
         int i = 1;
-        int j = minutes;
-
-        while (j < customers.size()) {
-
+        int j = k;
+ int max_idx = 0;
+       int max_sum = prev_sum;
+        while(j<n) {
             curr_sum = prev_sum;
 
-            if (grumpy[j] == 1)
+            if(grumpy[j]==1) {
                 curr_sum += customers[j];
-
-            if (grumpy[i - 1] == 1)
-                curr_sum -= customers[i - 1];
-
-            if (curr_sum > max_sum) {
-                max_sum = curr_sum;
-                window_idx = i;
             }
 
+            if(grumpy[i-1]==1) {
+                curr_sum -= customers[i-1];  
+            }
+            if(max_sum<curr_sum) {
+                max_sum = curr_sum;
+                max_idx = i;
+            }
             prev_sum = curr_sum;
             i++;
             j++;
         }
 
-        // Make chosen window non-grumpy
-        for (int k = window_idx; k < window_idx + minutes; k++) {
-            grumpy[k] = 0;
+        for(int i = max_idx ; i<max_idx+k;i++) {
+            grumpy[i] = 0;
         }
-
-        int satisfaction = 0;
-
-        for (int i = 0; i < customers.size(); i++) {
-            if (grumpy[i] == 0)
-                satisfaction += customers[i];
+int sats = 0;
+        for (int i = 0 ; i<n;i++) {
+            if(grumpy[i]==0) {
+                sats += customers[i];
+            }
         }
+        return sats;
 
-        return satisfaction;
     }
 };
