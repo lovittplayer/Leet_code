@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lovittplayer/Leet_code/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lovittplayer/Leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0209-minimum-size-subarray-sum](https://github.com/lovittplayer/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/lovittplayer/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/lovittplayer/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
