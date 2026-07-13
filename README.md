@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/lovittplayer/Leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lovittplayer/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lovittplayer/Leet_code/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/lovittplayer/Leet_code/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/lovittplayer/Leet_code/tree/master/0260-single-number-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
