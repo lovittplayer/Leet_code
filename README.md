@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0007-reverse-integer](https://github.com/lovittplayer/Leet_code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
+| [0507-perfect-number](https://github.com/lovittplayer/Leet_code/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
