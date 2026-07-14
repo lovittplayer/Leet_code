@@ -20,7 +20,7 @@ bool isPrime(int n) {
                    maxi = max(nums[i][i],maxi);
             }
 
-            if(isPrime(nums[i][nums[0].size()-i-1])) {
+            if(isPrime(nums[i][nums.size()-i-1])) {
                 maxi = max(nums[i][nums.size()-i-1],maxi);
             }
         }
