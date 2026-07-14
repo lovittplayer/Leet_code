@@ -1,19 +1,14 @@
 class Solution {
 public:
     bool checkPerfectNumber(int num) {
-        int sum = 0;
-        for (int i = 1 ; i<sqrt(num);i++) {
+        int sum = 1;
+        for (int i = 2;i<=sqrt(num);i++) {
                 if(num%i == 0) {
-                    sum += i;
+                    sum += i+ (num/i) ;
                 }
         }
-        for (int i = sqrt(num); i>1;i--) {
-                if(num%(num/i) == 0) {
-                    sum += (num/i);
-                }
-        }
+       if(num==sqrt(num)*sqrt(num)) sum -= sqrt(num);
 
-        if(sum == num) return true;
-        else return false;
+        return (sum==num);
     }
 };
