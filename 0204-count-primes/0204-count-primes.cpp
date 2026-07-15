@@ -16,7 +16,7 @@ public:
     int countPrimes(int n) {
         if(n<=2) return 0;
         int count = 0;
-        vector<bool>sieve(n+1,1); // 1 means prime , 0 means not prime
+        vector<bool>sieve(n+1,true); // 1 means prime , 0 means not prime
         sieve[0] = 0;
         sieve[1] = 0;
         fillSieve(sieve);
