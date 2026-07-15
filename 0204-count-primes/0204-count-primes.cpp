@@ -1,9 +1,10 @@
 class Solution {
     void fillSieve(vector<bool>&sieve) {
         int n = sieve.size()-1;
-        for(int i = 2;i<=sqrt(n);i++) {
+        int limit = sqrt(n);
+        for(int i = 2;i<=limit;i++) {
             if(sieve[i]==1) {
-            for(int j= i*2;j<=n;j+=i) {
+            for(int j= i*i;j<=n;j+=i) {
              sieve[j] = 0;
            }
             }
@@ -19,10 +20,9 @@ public:
         sieve[0] = 0;
         sieve[1] = 0;
         fillSieve(sieve);
-        for(int i = 2 ; i<n;i++) {
+        for(int i = 2;i<n;i++) {
             if(sieve[i]==1) count++;
         }
-
         return count;
     }
 };
