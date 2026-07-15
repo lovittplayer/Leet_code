@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/lovittplayer/Leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lovittplayer/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lovittplayer/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0007-reverse-integer](https://github.com/lovittplayer/Leet_code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/lovittplayer/Leet_code/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -181,6 +183,11 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
