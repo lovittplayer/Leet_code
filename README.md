@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
+| [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/lovittplayer/Leet_code/tree/master/0507-perfect-number) |
+| [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
