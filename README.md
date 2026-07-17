@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0263-ugly-number](https://github.com/lovittplayer/Leet_code/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/lovittplayer/Leet_code/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/lovittplayer/Leet_code/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/lovittplayer/Leet_code/tree/master/0260-single-number-iii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
