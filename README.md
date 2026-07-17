@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/lovittplayer/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/lovittplayer/Leet_code/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/lovittplayer/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0048-rotate-image](https://github.com/lovittplayer/Leet_code/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/lovittplayer/Leet_code/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/lovittplayer/Leet_code/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/lovittplayer/Leet_code/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/lovittplayer/Leet_code/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lovittplayer/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/lovittplayer/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lovittplayer/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/lovittplayer/Leet_code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Counting
 |  |
