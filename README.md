@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lovittplayer/Leet_code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lovittplayer/Leet_code/tree/master/0118-pascals-triangle) |
 | [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lovittplayer/Leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lovittplayer/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lovittplayer/Leet_code/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lovittplayer/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
