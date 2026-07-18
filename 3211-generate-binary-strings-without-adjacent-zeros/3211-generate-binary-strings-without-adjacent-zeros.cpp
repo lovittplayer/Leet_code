@@ -5,11 +5,11 @@ public:
         ans.push_back(s);
         return;
     }
-    if(s.size()==0) {
+    if(s.empty()) {
         binarystring(ans,s+'1',n-1);
        binarystring(ans,s+'0',n-1);
     }
-    else if (s[s.size()-1]=='0') {
+    else if (s.back() =='0') {
         binarystring(ans,s+'1',n-1); 
           
     }
