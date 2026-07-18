@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovittplayer/Leet_code/tree/master/0022-generate-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lovittplayer/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
