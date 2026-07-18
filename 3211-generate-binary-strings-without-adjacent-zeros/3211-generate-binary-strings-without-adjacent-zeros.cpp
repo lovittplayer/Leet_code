@@ -9,9 +9,9 @@ public:
         binarystring(ans,s+'1',n-1);
        binarystring(ans,s+'0',n-1);
     }
-    else {
-          if(s[s.size()-1]=='0') {
-        binarystring(ans,s+'1',n-1);
+    else if (s[s.size()-1]=='0') {
+        binarystring(ans,s+'1',n-1); 
+          
     }
     else {
         binarystring(ans,s+'1',n-1);
@@ -21,8 +21,6 @@ public:
 
     }
 
-
-   }
     vector<string> validStrings(int n) {
         
         vector<string>ans;
