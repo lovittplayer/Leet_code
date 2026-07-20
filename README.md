@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lovittplayer/Leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/lovittplayer/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/lovittplayer/Leet_code/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lovittplayer/Leet_code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -215,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/lovittplayer/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
