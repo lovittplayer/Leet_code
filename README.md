@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/lovittplayer/Leet_code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/lovittplayer/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/lovittplayer/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
