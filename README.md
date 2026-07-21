@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lovittplayer/Leet_code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lovittplayer/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lovittplayer/Leet_code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/lovittplayer/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lovittplayer/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lovittplayer/Leet_code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lovittplayer/Leet_code/tree/master/0075-sort-colors) |
