@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lovittplayer/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lovittplayer/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lovittplayer/Leet_code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lovittplayer/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lovittplayer/Leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/lovittplayer/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lovittplayer/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
