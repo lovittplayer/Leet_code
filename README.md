@@ -234,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/lovittplayer/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
