@@ -18,13 +18,8 @@ public:
         return false;
       }
 
-    bool leftAns = isSameTree(p->left,q->left);
-    if(leftAns==false) return false; 
-
-    bool rightAns = isSameTree(p->right,q->right);
-    if(rightAns==false) return false;
-
-    return true;
+    
+    return isSameTree(p->left,q->left) && isSameTree(p->right,q->right); ;
         
     }
 };
