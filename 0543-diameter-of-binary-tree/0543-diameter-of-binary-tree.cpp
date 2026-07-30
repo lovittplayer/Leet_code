@@ -17,6 +17,7 @@ int levels(TreeNode * root) {
     return 1 + max(levels(right),levels(left));
 }
     int diameterOfBinaryTree(TreeNode* root) {
+        maxdia = 0; // reintialize 
         return traverse(root);
     }
 };
