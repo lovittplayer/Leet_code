@@ -189,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0040-combination-sum-ii](https://github.com/lovittplayer/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lovittplayer/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lovittplayer/Leet_code/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovittplayer/Leet_code/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lovittplayer/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -239,18 +241,21 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
