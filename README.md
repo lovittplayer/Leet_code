@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
