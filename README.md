@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lovittplayer/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lovittplayer/Leet_code/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lovittplayer/Leet_code/tree/master/0226-invert-binary-tree) |
