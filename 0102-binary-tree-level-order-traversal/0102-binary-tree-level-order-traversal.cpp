@@ -15,16 +15,13 @@ public:
         if (root ==NULL) return 0;
         return 1 + max(levels(root->left),levels(root->right));
     }
-    void LevelOrder(TreeNode* root,vector<int>&v, vector<vector<int>>&ans,int lvl,int n) {
+    void LevelOrder(TreeNode* root, vector<vector<int>>&ans,int lvl) {
         if(root == NULL) {
             return;
         }
-        if(lvl == n) {
-            v.push_back(root->val);
-            return;
-        }
-     LevelOrder(root->left,v,ans,lvl,n+1);
-      LevelOrder(root->right,v,ans,lvl,n+1);
+        ans[lvl].push_back(root->val);
+     LevelOrder(root->left,ans,lvl+1);
+      LevelOrder(root->right,ans,lvl+1);
 
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
@@ -33,9 +30,9 @@ public:
         int lvl = levels(root);
         for(int i = 1;i<=lvl;i++) {
          vector<int>v;
-       LevelOrder(root,v,ans,i,1);
         ans.push_back(v);
     }
+     LevelOrder(root,ans,0);
 
     return ans;
 
