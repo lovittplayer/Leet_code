@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lovittplayer/Leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0622-design-circular-queue](https://github.com/lovittplayer/Leet_code/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/lovittplayer/Leet_code/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lovittplayer/Leet_code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0240-search-a-2d-matrix-ii](https://github.com/lovittplayer/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0054-spiral-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/lovittplayer/Leet_code/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Math
 |  |
