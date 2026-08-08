@@ -32,7 +32,7 @@ public:
             }
 
             
-         } // this gives root right left ann
+         } // this gives root left right 
 
          return ans;
        
