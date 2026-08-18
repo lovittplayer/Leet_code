@@ -15,16 +15,15 @@ public:
              vector<vector<int>>& ans, vector<int> v) {
 
     if(root == NULL) return;
-
     v.push_back(root->val);
     targetSum -= root->val;
-
     if(root->left == NULL && root->right == NULL) {
         if(targetSum == 0) {
             ans.push_back(v);
         }
         return;
     }
+
 
     pathSum(root->left, targetSum, ans, v);
     pathSum(root->right, targetSum, ans, v);
