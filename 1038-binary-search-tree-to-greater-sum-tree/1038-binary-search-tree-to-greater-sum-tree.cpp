@@ -11,31 +11,17 @@
  */
 class Solution {
 public:
-  void inorder(TreeNode* root,vector <int> & v) {
-    if (root == NULL) return;
-    inorder(root->left,v);
-    v.push_back(root->val);
-    inorder(root->right,v);
-  }
+void gst (TreeNode* root,int & sum) {
+    if(root ==NULL) return;
+    gst(root->right,sum);
+    sum += root->val;
+    root->val = sum;
+    gst(root->left,sum);
 
-  void gst(TreeNode* root,vector <int> & v,int & idx) {
-        if (root == NULL) return;
-        gst(root->left,v,idx);
-        root->val = v[idx];
-        idx++;
-       gst(root->right,v,idx);
-  }
+}
     TreeNode* bstToGst(TreeNode* root) {
-        vector<int> v;
-        inorder(root,v);
-        int n = v.size();
-        for(int i = n-2;i>=0;i--) {
-            v[i] += v[i+1];
-        }
-        int idx = 0;
-        gst(root,v,idx);
-       return root;
-
-        
+        int sum = 0;
+        gst(root,sum);
+        return root;
     }
 };
