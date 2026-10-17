@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1004-max-consecutive-ones-iii](https://github.com/lovittplayer/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lovittplayer/Leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/lovittplayer/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/lovittplayer/Leet_code/tree/master/1207-unique-number-of-occurrences) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lovittplayer/Leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lovittplayer/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
+| [1207-unique-number-of-occurrences](https://github.com/lovittplayer/Leet_code/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
