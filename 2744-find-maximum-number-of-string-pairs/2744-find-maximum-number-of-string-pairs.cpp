@@ -13,6 +13,7 @@ public:
             if(st.find(rev)!=st.end()) {
                 count++;
                 st.erase(s);
+                st.erase(rev);
             }
         }
 
