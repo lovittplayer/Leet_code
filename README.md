@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lovittplayer/Leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
 | [3637-trionic-array-i](https://github.com/lovittplayer/Leet_code/tree/master/3637-trionic-array-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0650-2-keys-keyboard](https://github.com/lovittplayer/Leet_code/tree/master/0650-2-keys-keyboard) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1486-xor-operation-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
@@ -227,11 +229,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0160-intersection-of-two-linked-lists](https://github.com/lovittplayer/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lovittplayer/Leet_code/tree/master/0169-majority-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sliding Window
 |  |
 | ------- |
