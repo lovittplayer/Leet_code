@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/lovittplayer/Leet_code/tree/master/2614-prime-in-diagonal) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3637-trionic-array-i](https://github.com/lovittplayer/Leet_code/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/lovittplayer/Leet_code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0257-binary-tree-paths](https://github.com/lovittplayer/Leet_code/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lovittplayer/Leet_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lovittplayer/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lovittplayer/Leet_code/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
 | ------- |
