@@ -8,14 +8,7 @@ public:
         unordered_map<char, int> mp;
         for (char ch : s)
         {
-            if (mp.find(ch) != mp.end())
-            {
-                mp[ch]++;
-            }
-            else
-            {
-                mp[ch] = 1;
-            }
+            mp[ch]++;
         }
 
         for (char ch : t)
