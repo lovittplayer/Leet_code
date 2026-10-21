@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovittplayer/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lovittplayer/Leet_code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lovittplayer/Leet_code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lovittplayer/Leet_code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/lovittplayer/Leet_code/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [1402-reducing-dishes](https://github.com/lovittplayer/Leet_code/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lovittplayer/Leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lovittplayer/Leet_code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lovittplayer/Leet_code/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/lovittplayer/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lovittplayer/Leet_code/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/lovittplayer/Leet_code/tree/master/1207-unique-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lovittplayer/Leet_code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lovittplayer/Leet_code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/lovittplayer/Leet_code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lovittplayer/Leet_code/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -264,12 +267,14 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lovittplayer/Leet_code/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lovittplayer/Leet_code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lovittplayer/Leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/lovittplayer/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lovittplayer/Leet_code/tree/master/0779-k-th-symbol-in-grammar) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lovittplayer/Leet_code/tree/master/2094-finding-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
