@@ -10,27 +10,28 @@ public:
        return k;
 
     }
-
-    long long   nC2 (int n) {
-        return (1LL * n * (n - 1)) / 2;
-    }
     int countNicePairs(vector<int>& nums) {
         unordered_map <int,int> mp;
-        long long count = 0;
-        const int MOD = 1e9+7;
-       
-        for(int x : nums) {
-            mp[(x-rev(x))]++;
+        vector <int> diff;
+        int MOD = 1e9+7;
+        int count = 0;
+        for (int s : nums) {
+           diff.push_back(s-rev(s));
         }
-
-        for(auto ele : mp) {
-            if(ele.second == 1) continue;
+       
+        for(int x : diff) {
+            if(mp.find(x)==mp.end()) {
+                mp[x]++;
+            }
             else {
-                count = (count + nC2(ele.second))%MOD;
+               count = count%MOD;
+                count +=  mp[x];
+                mp[x]++;
             }
         }
 
-        return count;
+
+        return count%MOD;
 
         
         
