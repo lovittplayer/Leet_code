@@ -14,13 +14,11 @@ public:
         if(head ==NULL || head->next == NULL) return head;
         ListNode * p = head;
       
-        while(p!=NULL && p->next!=NULL) {
+        while(p!=NULL) {
             while(p->next!=NULL &&  p->val == p->next->val) {
               p->next = p->next->next;
            }
            p = p->next;
-       
-           
            
         }
 
