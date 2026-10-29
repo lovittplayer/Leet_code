@@ -9,8 +9,11 @@ public:
                 int x = stoi(st.top());
                 int y = 0;
                 st.pop();
-                if(st.size()!=0) y = stoi(st.top());
+                if(st.size()!=0) {
+                     y = stoi(st.top());
                 st.pop();
+                }
+                
                  st.push(to_string(y));
                 st.push(to_string(x));
                 st.push(to_string(x + y));
